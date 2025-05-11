@@ -3,8 +3,8 @@
 A new Flutter project.
 
 # packages  
-
-  http: ^1.1.0
+```yaml
+   http: ^1.1.0
   dartz: ^0.10.1
   equatable: ^2.0.5
   get_it: ^7.6.4
@@ -15,8 +15,8 @@ A new Flutter project.
   flutter_staggered_grid_view: ^0.7.0
   syncfusion_flutter_sliders: ^23.1.44
   cached_network_image: ^3.3.0
-  
   bottom_navy_bar: ^6.1.0
+```
 
 
 
