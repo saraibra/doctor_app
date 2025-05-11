@@ -1,6 +1,6 @@
 # doctor_app
 
-A new Flutter project.
+A doctor app is an app to book medical appointments the user can find doctors and see all their available appointments so patient can book ,reschedule and cancel appointments.
 
 # packages  
 ```yaml
@@ -21,6 +21,7 @@ A new Flutter project.
   intl: ^0.20.2
   bottom_navy_bar: ^6.1.0
 ```
-
+# Video
+  
 
 
