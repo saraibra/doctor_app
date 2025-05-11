@@ -18,6 +18,7 @@ A new Flutter project.
   firebase_core: ^3.13.0
   firebase_database: ^11.3.5
   intl: ^0.20.2
+  
   bottom_navy_bar: ^6.1.0
 
 
