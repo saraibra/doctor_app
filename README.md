@@ -2,10 +2,7 @@
 
 A new Flutter project.
 
-# packages
-
-
-  flutter_lints: ^5.0.0
+# packages  flutter_lints: ^5.0.0
   flutter_bloc: ^9.1.1
   get_it: ^8.0.3
   dartz: ^0.10.1
