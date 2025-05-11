@@ -1,6 +1,7 @@
 # doctor_app
 
 A doctor app is an app to book medical appointments the user can find doctors and see all their available appointments so patient can book ,reschedule and cancel appointments.
+this app make user more satisfied I will improve this app to add notifications that reminds user of their appointments. 
 
 # packages  
 ```yaml
